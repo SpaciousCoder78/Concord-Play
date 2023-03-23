@@ -1,0 +1,14 @@
+{
+    "name": "Concord Play",
+    "version": "1.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^20.3.12"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
