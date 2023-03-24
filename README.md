@@ -27,7 +27,7 @@ To select a song in the app, click on choose file
 
 ![image](https://user-images.githubusercontent.com/88923986/227239333-908380df-2e25-4188-9c01-0eb46a8a53aa.png)
 
-Select the audio file 
+Select the audio files that you want to play
 
 ![image](https://user-images.githubusercontent.com/88923986/227239575-e99a00be-a95b-43b1-b046-aae521cfbe5c.png)
 
@@ -37,4 +37,5 @@ and click on play to play the song
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/88923986/227239991-a56d8e54-ce7f-4a9c-9f2f-adda04e71bb9.png)
+![image](https://user-images.githubusercontent.com/88923986/227436562-c6e041be-035b-4ffc-9842-4ed2d611b198.png)
+
