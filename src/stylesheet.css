@@ -39,7 +39,7 @@ body{
     transition: 0.2s ease-in-out;
   }
 
-#nextbuttonright{
+#skipbutton{
         font-size: 1.5em;
         align-items: center;
         justify-content: center;
